@@ -15,7 +15,7 @@ h1 {
 h2 {
   color: #074f18;
   font-family: Merriweather, serif;
-  font-size: 24px;
+  font-size: 1.5rem;
 }
 
 h3 {
@@ -60,10 +60,11 @@ p {
 }
 
 .bottom-cloud {
-  bottom: 300px;
-  left: 320px;
+  bottom: 270px;
+  left: 270px;
   position: absolute;
   width: 15%;
+
 }
 
 .bottom-container {
@@ -199,9 +200,10 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 320px;
+  right: 240px;
   top: 30px;
-  width: 12%;
+  width: 14%;
+
 }
 
 .water-img {
