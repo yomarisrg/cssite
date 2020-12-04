@@ -39,7 +39,7 @@ p {
   }
 
   40% {
-    opacity: 1;
+    opacity: 100;
       left: 0;
   }
 
@@ -134,9 +134,6 @@ p {
   padding: 0 50px;
 }
 
-.f-weight {
-  font-weight: normal;
-}
 
 .footer-link {
   color: #ab7b21;
@@ -157,6 +154,7 @@ p {
 
 .island-img {
   width: 60%;
+  margin-top: 10px;
 }
 
 .middle-container {
@@ -173,6 +171,15 @@ p {
   width: 15%;
 }
 
+.prog-h2 {
+  font-weight: normal;
+  position: absolute;
+  /* padding: 10px; */
+  top: 35%;
+  left: 42%;
+
+
+}
 .robotics-title {
   padding-left: 45px;
 }
