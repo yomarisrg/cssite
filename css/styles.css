@@ -63,7 +63,8 @@ p {
   bottom: 270px;
   left: 270px;
   position: absolute;
-  width: 180px;
+  max-width: 12%;
+  object-fit: contain;
 
 }
 
@@ -203,7 +204,8 @@ p {
   position: absolute;
   right: 240px;
   top: 30px;
-  width: 180px;
+  max-width: 12%;
+  object-fit: contain;
 
 }
 
