@@ -63,7 +63,7 @@ p {
   bottom: 270px;
   left: 270px;
   position: absolute;
-  width: 15%;
+  width: 180px;
 
 }
 
@@ -128,7 +128,7 @@ p {
 .copyright-line {
   color: white;
   font-size: 0.85rem;
-  margin: 20px 0;
+  margin: 20px 0 40px 0;
 }
 
 .description {
@@ -203,7 +203,7 @@ p {
   position: absolute;
   right: 240px;
   top: 30px;
-  width: 14%;
+  width: 180px;
 
 }
 
