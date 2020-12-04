@@ -60,10 +60,10 @@ p {
 }
 
 .bottom-cloud {
-  bottom: 45%;
-  left: 25%;
+  bottom: 300px;
+  left: 320px;
   position: absolute;
-  width: 11rem;
+  width: 15%;
 }
 
 .bottom-container {
@@ -154,7 +154,6 @@ p {
 
 .island-img {
   width: 60%;
-  margin-top: 10px;
 }
 
 .middle-container {
@@ -173,12 +172,6 @@ p {
 
 .prog-h2 {
   font-weight: normal;
-  position: absolute;
-  /* padding: 10px; */
-  top: 35%;
-  left: 42%;
-
-
 }
 .robotics-title {
   padding-left: 45px;
@@ -206,9 +199,9 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 25%;
-  top: 5%;
-  width: 11rem;
+  right: 320px;
+  top: 30px;
+  width: 12%;
 }
 
 .water-img {
