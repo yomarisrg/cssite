@@ -3,6 +3,7 @@ body {
   font-family: Montserrat, serif;
   margin: 0;
   text-align: center;
+  overflow-x: hidden; 
 }
 
 h1 {
@@ -63,7 +64,7 @@ p {
   bottom: 270px;
   left: 270px;
   position: absolute;
-  max-width: 10%;
+  max-width: 14%;
   object-fit: contain;
 
 }
@@ -204,7 +205,7 @@ p {
   position: absolute;
   right: 240px;
   top: 30px;
-  max-width: 10%;
+  max-width: 14%;
   object-fit: contain;
 
 }
